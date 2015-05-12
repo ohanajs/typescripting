@@ -9,6 +9,8 @@
   "author": "George Lee <keoki.lee@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^2.9.25",
+    "rimraf": "^2.3.3",
     "typescript": "^1.5.0-beta",
     "workshopper": "^2.5.0",
     "workshopper-exercise": "^2.3.0"
